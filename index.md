@@ -47,7 +47,7 @@
 
 - 参加者
   - 事前参加者：googleフォームにメアド入力 -> 名前と金額確認 -> 受付に提示
-    - [googleフォーム](./media/registration_form.png)
+    ![googleフォーム](./media/registration_form.jpg)
 
 ## 費用：ざっくり
 
